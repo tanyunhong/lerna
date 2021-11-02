@@ -1,6 +1,6 @@
 {
-  "name": "tyh-root",
-  "version": "1.0.1",
+  "name": "tyhcore",
+  "version": "1.0.2",
   "devDependencies": {
     "lerna": "^3.18.4"
   },

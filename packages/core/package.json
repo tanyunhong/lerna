@@ -1,6 +1,6 @@
 {
-  "name": "tyh-core",
-  "version": "1.0.4",
+  "name": "@tanyunhong/core",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "072545f969ab9302ef2ea5f38ca4d80642c4e60d"
+  "gitHead": "fe1c64af05a7edd2f619d12d1af0da86faed9db1"
 }
